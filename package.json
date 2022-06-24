@@ -1,0 +1,29 @@
+{
+  "name": "com.codesmile.core",
+  "version": "0.1.0",
+  "displayName": "CodeSmile Core Framework",
+  "description": "Contains generally useful utility code, extension classes, editor tools, etc.",
+  "category": "Tools",
+  "unity": "2020.3",
+  "dependencies": {
+  },
+  "relatedPackages": {
+  },
+  "samples": [
+    {
+      "displayName": "CodeSmile Examples",
+      "description": "Some examples ...",
+      "path": "Samples~"
+    }
+  ],
+  "keywords": [
+    "CodeSmile",
+    "Utility",
+    "Tool"
+  ],
+  "author": {
+    "name": "CodeSmile",
+    "email": "codesmile.assets@gmail.com",
+    "url": "https://forum.unity.com/forums/made-with-unity.11/"
+  }
+}
