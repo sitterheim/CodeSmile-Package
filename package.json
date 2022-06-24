@@ -2,7 +2,7 @@
   "name": "com.codesmile.core",
   "version": "0.1.0",
   "displayName": "CodeSmile Core Framework",
-  "description": "Contains generally useful utility code, extension classes, editor tools, etc.",
+  "description": "Contains generally useful utility code, extension classes, editor tools, etc. by CodeSmile",
   "category": "Tools",
   "unity": "2020.3",
   "dependencies": {
